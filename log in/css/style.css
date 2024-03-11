@@ -1,0 +1,26 @@
+
+h1 {
+    font-size: 100px;
+    color: green;
+
+}
+
+label {
+    background-color: pink;
+}
+
+#userlabel{
+    font-size:30px;
+}
+
+ #passlabel{
+    font-size:30px;
+ }
+
+.labelClass {
+    color: blue;
+}
+
+body{
+    background-color: yellow;
+}
