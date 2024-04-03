@@ -1,0 +1,246 @@
+.kilogram {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    color: black;
+    background-color: palevioletred;
+    width: 100%;
+    padding: 10px;
+    border: 5px solid rgb(72, 74, 201);
+    z-index: 99999;
+}
+.Home {
+    position: fixed;
+    left: 0;
+    width: 25%;
+    top: 100px;
+    background-color: palevioletred;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid rgb(64, 64, 182);
+}
+.Search {
+    position: fixed;
+    left: 0;
+    width: 25%;
+    top: 200px;
+    background-color: palevioletred;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid rgb(64, 64, 182);
+}
+.Explore {
+    position: fixed;
+    left: 0;
+    width: 25%;
+    top: 300px;
+    background-color: palevioletred;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid rgb(64, 64, 182);
+}
+.Reels {
+    position: fixed;
+    left: 0;
+    width: 25%;
+    top: 400px;
+    background-color: palevioletred;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid rgb(64, 64, 182);
+}
+.Messages {
+    position: fixed;
+    left: 0;
+    width: 25%;
+    top: 500px;
+    background-color: palevioletred;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid rgb(64, 64, 182);
+}
+
+.pic1 {
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: blueviolet;
+    color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid rgb(155, 56, 56);
+}
+img {
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.pic2 {
+    position: relative;
+    left: 45%;
+    top: 140px;
+    background-color:blueviolet;
+    color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid rgb(155, 56, 56);
+}
+img {
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.pic3 {
+    position: relative;
+    left: 45%;
+    top: 170px;
+    background-color: blueviolet;
+    color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid rgb(155, 56, 56);
+}
+img {
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.pic4 {
+    position: relative;
+    left: 45%;
+    top: 200px;
+    background-color: blueviolet;
+    color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid rgb(155, 56, 56);
+}
+img {
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.pic5 {
+    position: relative;
+    left: 45%;
+    top: 230px;
+    background-color: blueviolet;
+    color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid rgb(155, 56, 56);
+}
+img {
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.pic6 {
+    position: relative;
+    left: 45%;
+    top: 260px;
+    background-color: blueviolet;
+    color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid rgb(155, 56, 56);
+}
+img {
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.pic7 {
+    position: relative;
+    left: 45%;
+    top: 290px;
+    background-color: blueviolet;
+    color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid rgb(155, 56, 56);
+}
+img {
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.pic8 {
+    position: relative;
+    left: 45%;
+    top: 320px;
+    background-color: blueviolet;
+    color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid rgb(155, 56, 56);
+}
+img {
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.pic9 {
+    position: relative;
+    left: 45%;
+    top: 350px;
+    background-color: blueviolet;
+    color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid rgb(155, 56, 56);
+}
+img {
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.pic10 {
+    position: relative;
+    left: 45%;
+    top: 380px;
+    background-color: blueviolet;
+    color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 3px solid rgb(155, 56, 56);
+}
+img {
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
